@@ -14,7 +14,7 @@ make sure your `python` and `bedtools` software are updated and callable.
 python genome2vec.py -a input.bed -b output_genome2vec.bed
 ```
 
-## input
+### input
 Query region bedgraph, must be sorted using sort -k 1,1 -k2,2n before.
 
 The input file should be a BED6 file format with `.bed` file name. it should contains more than 7 columns as:
@@ -23,5 +23,5 @@ The input file should be a BED6 file format with `.bed` file name. it should con
 
 You can use place holder like "." for this columns.
 
-## output
+### output
 The output file will contain all query columns and then all annotations columns.
