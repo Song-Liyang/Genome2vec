@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/db909b0f-d6f1-4880-ba71-f923332bb44c)
+
 # Genome2Vec
 A command-line tool for generating genome feature embeddings based on input BED files and pre-defined annotation datasets.
 
